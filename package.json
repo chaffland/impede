@@ -1,6 +1,6 @@
 {
   "name": "impede",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/impede.js",
   "engines": {
