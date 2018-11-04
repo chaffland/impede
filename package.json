@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "",
   "main": "lib/impede.js",
+  "types": "lib/impede.d.ts",
   "engines": {
     "node": ">=6.0.0"
   },
