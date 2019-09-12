@@ -4,9 +4,6 @@
   "description": "",
   "main": "lib/impede.js",
   "types": "lib/impede.d.ts",
-  "engines": {
-    "node": ">=6.0.0"
-  },
   "scripts": {
     "lint": "eslint lib --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
