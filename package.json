@@ -1,5 +1,5 @@
 {
-  "name": "impede",
+  "name": "@chaffity/impede",
   "version": "0.0.3",
   "description": "",
   "main": "lib/impede.js",
@@ -13,19 +13,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iainreid820/impede.git"
+    "url": "git+https://github.com/Chaffity/impede.git"
   },
   "keywords": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iainreid820/impede/issues"
+    "url": "https://github.com/Chaffity/impede/issues"
   },
-  "homepage": "https://github.com/iainreid820/impede#readme",
+  "homepage": "https://github.com/Chaffity/impede#readme",
   "eslintConfig": {
     "extends": "@emphori"
   },
   "devDependencies": {
     "@emphori/eslint-config": "^0.1.3",
     "eslint": "^6.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
